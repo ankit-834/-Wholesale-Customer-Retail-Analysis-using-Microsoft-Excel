@@ -1,2 +1,2 @@
-# -Wholesale-Customer-Retail-Analysis-using-Microsoft-Excel
+#Customer-Retail-Analysis-using-MsExcel
 I am given sales data for annual spending of several items in their stores across different regions and channels. The data consists of 440 large retailers’ annual spending on 6 different varieties of products in 3 different regions (Lisbon, Oporto, Other) and across different sales channels (Hotel/Restaurant/Café HoReCa, Retail). My main objective is to be able to identify demands across channels and regions so as to customize marketing strategies for each item as well as to identify spending habits of customers for better marketing strategy.
